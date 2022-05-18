@@ -1,0 +1,4 @@
+<resources>
+    <string name="android_first_screen">Android Native Screen</string>
+    <string name="go_to_flutter_screen_2">Go to Flutter Screen 2</string>
+</resources>
