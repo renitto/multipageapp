@@ -23,9 +23,9 @@ The project contains mainly 4 screens
 
 ## Routing Details
 
-### 1. Flutter Home Screen
+![Alt text](/assets/flow.png?raw=true)
 
-![Alt text](/assets/flow.png?raw=true "Platform Channel - Architecture overview")
+### 1. Flutter Home Screen
 
 Flutter Home Screen is the starting point of the flutter application. This screen contains a simple
 ElevatedButton. onclick a method is called to communicate with Native android code. **Method Channel
